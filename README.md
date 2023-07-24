@@ -23,6 +23,6 @@ Here the meaning of the columns:
 >13. **thal**: **3** = normal; **6** = fixed defect; **7** = reversible defect  
 > 14. **target**: **1** indicating that the patient has heart disease and **0** indicating that they do not.
 
-In the file **Template_ETLwithJupySQL.ipynb** [Access the Python Notebook here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/Template_ETLwithJupySQL.ipynb) , there is a template with the commands comparing **Pandas** and **JupySQL** (with some adaptations from this blog [Access the motivating blog here!](https://www.kdnuggets.com/2023/05/schedule-run-etls-jupysql-github-actions.html?fbclid=IwAR0uDE5jd6TkoZxysIbEsq7OlMiIHtbP10TU-QO_3-hBp6NKR9gzpofgcCs) )
+In the file **Template_ETLwithJupySQL.ipynb** [Access the Jupyter Notebook here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/Template_ETLwithJupySQL.ipynb) , there is a template with the commands comparing **Pandas** and **JupySQL** (with some adaptations from this blog [Access the motivating blog here!](https://www.kdnuggets.com/2023/05/schedule-run-etls-jupysql-github-actions.html?fbclid=IwAR0uDE5jd6TkoZxysIbEsq7OlMiIHtbP10TU-QO_3-hBp6NKR9gzpofgcCs) )
 
 
