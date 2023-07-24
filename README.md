@@ -4,7 +4,7 @@
 
 **JupySQL** is compatible with all major databases (e.g., **PostgreSQL**, **MySQL**, **SQL Server**), data warehouses (e.g., **Snowflake**, **BigQuery**, **Redshift**), and embedded engines (**SQLite**, and **DuckDB**) [Access the User Guide here!](https://jupysql.ploomber.io/en/latest/quick-start.html)
 
-The dataset **heart_disease.csv** used for the analysis is avaiable here: [Access the dataset here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/heart_disease.csv) 
+The datasets **heart_disease.csv** and **heart_disease_target.csv** analysed are avaiables here: [Access the heart_disease.csv here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/heart_disease.csv) and [Access the heart_disease_target.csv here!]() .
 
 Here the meaning of the columns:
 
@@ -22,3 +22,7 @@ Here the meaning of the columns:
 > 12. **ca**: Number of major vessels (0-3) colored by fluoroscopy
 >13. **thal**: **3** = normal; **6** = fixed defect; **7** = reversible defect  
 > 14. **target**: **1** indicating that the patient has heart disease and **0** indicating that they do not.
+
+In the file **Template_ETLwithJupySQL.ipynb** [Access the Python Notebook here!]() , there is a template with the commands comparing **Pandas** and **JupySQL** (with some adaptations from [Access the motivating article here!](https://www.kdnuggets.com/2023/05/schedule-run-etls-jupysql-github-actions.html?fbclid=IwAR0uDE5jd6TkoZxysIbEsq7OlMiIHtbP10TU-QO_3-hBp6NKR9gzpofgcCs) 
+
+
