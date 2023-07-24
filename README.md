@@ -4,7 +4,7 @@
 
 **JupySQL** is compatible with all major databases (e.g., **PostgreSQL**, **MySQL**, **SQL Server**), data warehouses (e.g., **Snowflake**, **BigQuery**, **Redshift**), and embedded engines (**SQLite**, and **DuckDB**) [Access the User Guide here!](https://jupysql.ploomber.io/en/latest/quick-start.html)
 
-The datasets **heart_disease.csv** and **heart_disease_target.csv** analysed are avaiables here: [Access the heart_disease.csv here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/heart_disease.csv) and [Access the heart_disease_target.csv here!]() .
+The datasets **heart_disease.csv** and **heart_disease_target.csv** analysed are avaiables here: [Access the heart_disease.csv here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/heart_disease.csv) and [Access the heart_disease_target.csv here!](https://github.com/mfigueiro/JupySQL---Performing-ETL/blob/main/heart_disease_target.csv) .
 
 Here the meaning of the columns:
 
