@@ -1,4 +1,4 @@
-## JupySQL - Performing-ETL
+## JupySQL - Performing ETL with PySQL and Pandas
 
 **JupySQL** allows you to run **SQL** and plot large datasets in **Jupyter** via a **%sql**, **%%sql**, and **%sqlplot** magics. 
 
